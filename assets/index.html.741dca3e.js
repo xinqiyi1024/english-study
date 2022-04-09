@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a as o,b as a}from"./app.0a68d170.js";const n={},c={id:"hello-english-study",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#hello-english-study","aria-hidden":"true"},"#",-1),d=a(" hello English Study"),r=[_,d];function h(i,l){return t(),s("h1",c,r)}var u=e(n,[["render",h],["__file","index.html.vue"]]);export{u as default};

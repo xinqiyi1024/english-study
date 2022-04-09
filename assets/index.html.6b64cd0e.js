@@ -1,0 +1,1 @@
+const t={key:"v-8daa1a0e",path:"/",title:"hello English Study",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649473273e3,contributors:[{name:"xinqiyi1024",email:"3633414863@qq.com",commits:1}]},filePathRelative:"README.md"};export{t as data};
