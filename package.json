@@ -1,0 +1,14 @@
+{
+  "name": "english-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "xinqiyi1024 <3633414863@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.38"
+  }
+}
